@@ -7,8 +7,8 @@
         "MIN_STAFF_ROLE": ""
     },
     "FILES": {
-        "WELCOME": "default_files/<welcome-voice>.mp3",
-        "STAFF": "default_files/<staff-voice>.mp3"
+        "WELCOME": "https://cdn.discordapp.com/attachments/954445709908770836/978379375131099216/hosgeldin.mp3",
+        "STAFF": "https://cdn.discordapp.com/attachments/954445709908770836/978379374925590638/Destek.mp3"
     },
     "TOKEN": "BOT_TOKEN"
 }
